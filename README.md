@@ -31,6 +31,7 @@ The biophysical principles explored in this work were featured as the **Suppleme
 
 <em>Figure 2: Graphical abstract illustrating the modulation of DNA/Lipid interfaces via multivalent hydrophobic anchors.</em>
 </p>
+
 ---
 
 ## 🔬 Scientific Context
