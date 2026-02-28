@@ -92,6 +92,6 @@ The pipeline utilizes **relative path handling** for portability.
 
 ## ✉️ Contact
 
-For questions regarding the methodology or requests for raw datasets, please contact **Siu Ho (Herbert) Wong** at [herbert.wong150@gmail.com].
+For questions regarding the methodology or requests for raw datasets, please contact **(Herbert) Siu-Ho Wong** at [herbert.wong150@gmail.com].
 
 ---
