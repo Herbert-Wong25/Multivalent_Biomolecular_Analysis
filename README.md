@@ -23,16 +23,17 @@ The biophysical principles explored in this work were selected for the **Supplem
   <br><em>Nano Letters Supplementary Cover — Volume 24, Issue 36 (2024)</em>
 </p>
 
-<p align="center">
-  <img src="assets/graphical_abstract.jpeg" width="680" alt="Graphical Abstract">
-  <br><em>Graphical abstract: multivalent hydrophobic anchoring modulates DNA binding strength at the lipid bilayer interface.</em>
-</p>
-
 ---
 
 ## Scientific Context
 
 This work establishes a quantitative framework for the phase-independent attachment of DNA nanostructures to zwitterionic lipid bilayers through hydrophobic anchoring — an electrostatics-free mechanism where binding strength is precisely tuned by anchor multiplicity and structural orientation. The pipeline extracts per-vesicle Cy5 fluorescence intensities from confocal microscopy images, enabling rigorous statistical comparison across experimental conditions.
+
+<p align="center">
+  <img src="assets/graphical_abstract.jpeg" width="680" alt="Graphical Abstract">
+  <br><em>Graphical abstract: multivalent hydrophobic anchoring modulates DNA binding strength at the lipid bilayer interface.</em>
+</p>
+
 
 ---
 
